@@ -1,4 +1,4 @@
-package kafkasub
+package kafkasubssl
 
 /*
 This is the Kafka server setup to support these tests:

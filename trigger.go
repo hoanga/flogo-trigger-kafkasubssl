@@ -1,4 +1,4 @@
-package kafkasub
+package kafkasubssl
 
 import (
 	"context"
@@ -19,7 +19,7 @@ import (
 )
 
 // log is the default package logger
-var log = logger.GetLogger("trigger-flogo-kafkasub")
+var log = logger.GetLogger("trigger-flogo-kafkasubssl")
 
 type _topichandler struct {
 	topic      string
