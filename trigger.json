@@ -1,7 +1,7 @@
 {
   "name": "flogo-kafkasubssl",
   "type": "flogo:trigger",
-  "ref": "github.com/hoanga/flogo-trigger-kafkasubssl",
+  "ref": "github.com/hoanga/kafkasubssl",
   "version": "0.0.1",
   "title": "Receive Kafka Messages",
   "author": "Wendell Nichols <wnichols@tibco.com>",
